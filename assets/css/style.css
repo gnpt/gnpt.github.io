@@ -1,0 +1,10 @@
+.site-title {
+    font-family: 'VT323', monospace;
+}
+
+.page-link-icon {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
